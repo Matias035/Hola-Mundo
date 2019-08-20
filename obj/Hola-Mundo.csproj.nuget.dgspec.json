@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\vitto\\Desktop\\PROG - Mati\\Hola-Mundo\\Hola-Mundo.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\vitto\\Desktop\\PROG - Mati\\Hola-Mundo\\Hola-Mundo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\vitto\\Desktop\\PROG - Mati\\Hola-Mundo\\Hola-Mundo.csproj",
+        "projectName": "Hola-Mundo",
+        "projectPath": "c:\\Users\\vitto\\Desktop\\PROG - Mati\\Hola-Mundo\\Hola-Mundo.csproj",
+        "packagesPath": "C:\\Users\\vitto\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\vitto\\Desktop\\PROG - Mati\\Hola-Mundo\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vitto\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
